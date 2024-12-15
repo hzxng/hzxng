@@ -1,4 +1,4 @@
-### FrontEnd Engineer, Web Developer
+## FrontEnd Engineer, Web Developer
 안녕하세요, 장하정입니다.
 
 <p align="left">
