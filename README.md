@@ -1,16 +1,13 @@
-## Hi there 👋
+### FrontEnd Engineer, Web Developer
+안녕하세요, 장하정입니다.
 
-<!--
-**hzxng/hzxng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,vue,redux,javascript,typescript,scss" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Career
+- 24.03 - 24.08 2024년 상반기 ICT 인턴십
+- 23.09 - 24.01 IT 동아리 잇타 (IT’s TIME)
+- 23.03 - 23.12 멋쟁이사자처럼 11기
