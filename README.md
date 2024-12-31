@@ -1,13 +1,15 @@
-## FrontEnd Engineer, Web Developer
-안녕하세요, 장하정입니다.
-
-<p align="left">
+<h2 align="center">
+  FrontEnd Engineer, Web Developer
+</h2>
+<p align="center">
+  안녕하세요, 프론트엔드 개발자 장하정입니다. 🙂
+</p>
+<br/>
+<h3 align="center">
+  🌱 skills
+</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,vue,redux,javascript,typescript,scss" />
   </a>
 </p>
-
-### Career
-- 24.03 - 24.08 2024년 상반기 ICT 인턴십
-- 23.09 - 24.01 IT 동아리 잇타 (IT’s TIME)
-- 23.03 - 23.12 멋쟁이사자처럼 11기
